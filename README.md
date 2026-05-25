@@ -1,1 +1,5 @@
-COPYTRADER is an that parses data from openinsider.com to retrieve the latest insider buys from the latest SEC Form 4 data. Based on the user's balance and configuration, they will be prompted with the option to act (buy/sell at the current market rate), learn more, or ignore. The Trading212 API will be used to retrieve prices and execute buy/sell orders. The benefit of this is that profits from trading are shielded from tax. However, the disadvantage is that there may be higher fees, particularly with a higher trading frequency.
+COPYTRADER is an app that parses data from openinsider.com to retrieve the latest insider buys from the latest SEC Form 4 data.
+
+Based on the user's balance and configuration, they will be prompted with the option to act (buy/sell at the current market rate), learn more, or ignore.
+
+The Trading212 API will be used to retrieve prices and execute buy/sell orders. The benefit of this is that profits from trading are shielded from tax. However, the disadvantage is that there may be higher fees, particularly with a higher trading frequency.
