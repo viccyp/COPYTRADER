@@ -1,6 +1,0 @@
-@COPYTRADER_HostAddress = http://localhost:5016
-
-GET {{COPYTRADER_HostAddress}}/weatherforecast/
-Accept: application/json
-
-###
